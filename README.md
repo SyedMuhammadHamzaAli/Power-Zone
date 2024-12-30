@@ -21,15 +21,15 @@ Due to the production-grade nature of the final project, it cannot be uploaded t
 • User authentication and MySQL database integration for data storage.
 # Final Deliverable (Expanded Scope)
 A Comprehensive Membership Management System for Fitness Centers
-• Frontend:
+# • Frontend:
 Developed using ReactJS to create a user-friendly and engaging membership tracking system.
 1) Improved member engagement by 20%.
 2) Reduced administrative processing time by 30%.
-• Backend:
+# • Backend:
 Implemented with Spring Boot to ensure scalability and reliability.
 1) Capable of handling over 1,000 monthly user requests.
 2) Delivered 99.9% uptime performance.
-• Database:
+# • Database:
 Leveraged MySQL for user authentication and to store user data and requests securely.
 
 
